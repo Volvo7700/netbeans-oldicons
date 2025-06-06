@@ -25,6 +25,7 @@ This is a Apache NetBeans fork with the recent icon changes to the SVG Format re
 
 
 *Original Description:*
+
 Apache NetBeans is an open source development environment, tooling platform, and application framework.
 
 ### Build status
