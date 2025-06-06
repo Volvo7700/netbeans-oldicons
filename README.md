@@ -19,8 +19,12 @@
 
 -->
 
-# Apache NetBeans
+# Apache NetBeans with old icons
 
+This is a Apache NetBeans fork with the recent icon changes to the SVG Format reverted.
+
+
+*Original Description:*
 Apache NetBeans is an open source development environment, tooling platform, and application framework.
 
 ### Build status
